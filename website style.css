@@ -1,0 +1,134 @@
+body{
+    background-image: url(https://images.rosewoodhotels.com/is/image/rwhg/rwsbm_beach_landscape:TALL-LARGE-9-16);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: Zeyada;
+    background-color: rgba(0, 255, 255, 0.367);
+    margin-left: 400px;
+    margin-right: 400px;
+    box-shadow: 0 30px 20px rgba(0, 255, 255, 0.34) ;
+    text-decoration: underline;
+}
+.textMain {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 255, 255, 0.367);
+    box-shadow: 0 30px 20px 30px rgba(0, 255, 255, 0.34) ;
+    text-align: center;
+    margin: 0 300px;
+    margin-bottom: -100px;
+}
+.text1 {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 255, 255, 0.367);
+    box-shadow: 0 30px 20px 30px rgba(0, 255, 255, 0.34) ;
+    text-align: center;
+    margin: 0 300px;
+}
+.background{
+    position: fixed;
+    left: 12%;
+    top: 0%;
+    transform: translateX(-50%, -50%);
+    height: 1700px;
+    width: 1500px;  
+    background-color: rgba(0, 255, 255, 0.307)
+}
+.Line {
+    border-right: 100px solid rgb(0, 255, 255, 0.9);
+  height: 2px;
+  width: 15px;
+  margin-right: 10px;
+  margin-left: -3px;
+  margin-top: -12px;
+  position: absolute;
+  position: fixed;
+}
+.CenterImage {
+    display: flex;
+    justify-content: center;
+}
+#Image1{
+    width: 30%;
+    z-index: 99;
+}
+#Image2{
+    width: 40%;
+    z-index: 99;
+}
+#Image3{
+    width: 35%;
+    z-index: 99;
+    padding-bottom: 20px;
+}
+#Image4{
+    width: 25%;
+    z-index: 99;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+#GreeceJapan{
+    width: 40%;
+    z-index: 99;
+
+}
+.Greece{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: Zeyada;
+    background-color: rgba(0, 255, 255, 0.367);;
+    box-shadow: 0 30px 20px 30px rgba(0, 255, 255, 0.34) ;
+    margin-top: 100px;
+    margin-bottom: -60px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.Japan{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: Zeyada;
+    background-color: rgba(0, 255, 255, 0.367);;
+    box-shadow: 0 30px 20px 30px rgba(0, 255, 255, 0.34) ;
+    margin-top: 30px;
+    margin-bottom: -50px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.Navbar{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 255, 255, 0.367);
+    float: left;
+    text-align: center;
+    padding: 14px; 
+    margin-top: -140px;
+    position: absolute;
+    position: fixed;
+}
+.Footer { 
+    padding: 1px;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1c1c11;
+    font-size: 20px;
+    margin-top: 170px;
+    margin-left: 200px;
+    margin-right: 280px;
+}
+.Line2 {
+    border-left: 2px solid rgb(0, 0, 0);
+    height: 30px;
+}
